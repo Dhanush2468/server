@@ -1,0 +1,16 @@
+{
+  "sunglasses" : [
+    {
+      "name": "John",
+      "phoneNumber": "7396526527",
+      "location": "Bihar",
+      "address": "555 Road Ex"
+    },
+    {
+      "name": "whitedevil",
+      "phoneNumber": "7396526529",
+      "location": "delhi",
+      "address": "555 Road Ex road"
+    }
+  ]
+}
